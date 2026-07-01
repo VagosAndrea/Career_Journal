@@ -1,8 +1,18 @@
-# Career_Journal
+# Product Vision
+
+**Project:** Career Journal
+
+**Version:** 1.0
+
+**Last Updated:** 2026-07-01
+
+**Status:** Draft 
+
+# Career Journal
 
 A personal job search journal that helps job seekers organize applications, track their progress, and improve their job search using data.
 
-Why Career Journal?
+# Why Career Journal?
 
 Most job seekers use spreadsheets, notes, browser bookmarks, or multiple job boards to manage their applications. As the number of applications grows, it becomes difficult to answer simple questions such as:
 
@@ -12,14 +22,14 @@ How many interviews have I received?
 Which job boards work best for me?
 What should I improve in my job search?
 
-Career Journal was created to answer these questions.
+# Career Journal was created to answer these questions.
 
 Instead of being just another job tracker, Career Journal helps users analyze their job search and continuously improve their application strategy.
 
-Core Features (MVP)
+# Core Features (MVP)
 Personal Application Tracker
 
-Track every application from one place.
+** Track every application from one place.
 
 Company
 Position
@@ -30,7 +40,7 @@ Tasks
 Documents
 Job Search Pipeline
 
-Manage every application through a visual workflow.
+** Manage every application through a visual workflow.
 
 Wishlist
 Applied
@@ -44,7 +54,7 @@ Rejected
 Withdrawn
 Analytics Dashboard
 
-Measure your job search performance.
+** Measure your job search performance.
 
 Total applications
 Response rate
@@ -56,11 +66,11 @@ Applications by source
 Applications over time
 Community Company Directory
 
-Users can contribute companies and career websites.
+** Users can contribute companies and career websites.
 
 The directory becomes a shared resource for every user.
 
-Each company includes:
+** Each company includes:
 
 Company name
 Industry
@@ -69,23 +79,25 @@ Locations
 Notes
 Long-term Vision
 
-Career Journal is designed to evolve into a complete career platform.
+** Career Journal is designed to evolve into a complete career platform.
 
-Future versions will include:
+#  Future versions will include:
 
 Automatic company career page monitoring
 AI-powered job recommendations
-Resume analytics
 Follow-up reminders
 Career insights
 Community statistics
-Technology
+
+
+# Technology
 Lovable
 Supabase
 PostgreSQL
 Authentication
 Row Level Security (RLS)
-Project Status
+
+# Project Status
 
 Current version: MVP Development
 
